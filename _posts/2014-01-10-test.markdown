@@ -1,0 +1,9 @@
+---
+layout: post
+title:  TYPO.CSS
+date:   2014-07-11 12:55:11
+category: "第一篇"
+---
+
+
+这个是一个测试的记录，第一篇破
