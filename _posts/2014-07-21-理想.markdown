@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  TYPO.CSS
+title:  《穷查理宝典》
 date:   2014-07-11 12:55:11
 category: "理想"
 ---
